@@ -19,7 +19,7 @@ class window2(QMainWindow):
         #doğal değişken ve sınıftan tanımlama objeler
         """self.speak=sr.Recognizer() #sesin yazıya dönüştürülmesi için kullanılan obje
         self.mic=sr.Microphone() #mikrofonun açılması için kullanılan obje"""
-        
+        print("deneme")
 
 
         #ekran öğreleri ile ilgili işlemler
